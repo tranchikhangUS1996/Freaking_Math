@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Freaking_Math</string>
+    <string name="HighScoreKey">RECORD</string>
+    <string name="gameover">Game Over</string>
+    <string name="newscore">New</string>
+    <string name="best">Best</string>
+</resources>
